@@ -35,3 +35,14 @@ drive.mount('/content/drive')
 드라이브 업로드한 데이터를 찾고 경로를 복사하여 pd.read 형식으로 불러오면 된다.
 불러올 데이터를 우클릭하거나 오른쪽 점점점 버튼을 누르면 경로 복사가 가능하다.
 
+
+### Kaggle Dataset 
+이용한 Kaggle Dataset
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?datasetId=3405&searchQuery=kmeans&select=ratings.csv
+
+movies_metadata.csv, credits.csv, keywords.csv
+
+<br><br>
+
+## Data 처리
+
